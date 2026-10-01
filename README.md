@@ -138,4 +138,4 @@ Không dùng mô hình deep learning nặng thêm ngoài Face Landmarker; phù h
 
 ## Tác giả / mục đích
 
-Dự án sinh viên – **Cuộc thi Sáng tạo trẻ Quốc gia 2026**, lĩnh vực Trí tuệ nhân tạo (Bảng C).
+Nhóm HAT - Dự án sinh viên – **Cuộc thi Sáng tạo trẻ Quốc gia 2026**, lĩnh vực Trí tuệ nhân tạo (Bảng C).
