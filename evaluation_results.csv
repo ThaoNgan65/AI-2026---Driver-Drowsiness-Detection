@@ -1,0 +1,31 @@
+filename,ground_truth,prediction,correct,warning_detected,reasons,frames,duration_sec
+video01.mp4,positive,positive,True,True,Mắt nhắm,299,10.02
+video02.mp4,positive,positive,True,True,Mắt nhắm,300,10.0
+video03.mp4,positive,positive,True,True,Mắt nhắm,345,11.5
+video04.mp4,positive,positive,True,True,Ngáp,299,9.97
+video05.mp4,positive,positive,True,True,Mắt nhắm,220,7.32
+video06.mp4,positive,positive,True,True,Mắt nhắm,282,9.4
+video07.mp4,positive,positive,True,True,Mắt nhắm + Ngáp,212,7.07
+video08.mp4,positive,positive,True,True,Mắt nhắm,487,16.23
+video09.mp4,positive,positive,True,True,Mắt nhắm + Ngáp,594,19.79
+video10.mp4,positive,positive,True,True,Mắt nhắm,296,9.87
+video11.mp4,positive,positive,True,True,Ngáp,157,5.23
+video12.mp4,positive,positive,True,True,Mắt nhắm,284,9.47
+video13.mp4,positive,positive,True,True,Mắt nhắm + Ngáp,326,10.87
+video14.mp4,positive,positive,True,True,Mắt nhắm,300,10.0
+video01.mp4,negative,negative,True,False,,197,6.57
+video02.mp4,negative,negative,True,False,,175,5.83
+video03.mp4,negative,negative,True,False,,190,6.33
+video04.mp4,negative,negative,True,False,,204,6.8
+video05.mp4,negative,negative,True,False,,158,5.27
+video06.mp4,negative,negative,True,False,,192,6.4
+video07.mp4,negative,negative,True,False,,162,5.39
+video08.mp4,negative,negative,True,False,,300,10.0
+video09.mp4,negative,negative,True,False,,250,10.0
+video10.mp4,negative,negative,True,False,,295,10.0
+video11.mp4,negative,negative,True,False,,300,10.0
+video12.mp4,negative,negative,True,False,,300,10.0
+video13.mp4,negative,negative,True,False,,250,10.0
+video14.mp4,negative,negative,True,False,,300,10.0
+video15.mp4,negative,negative,True,False,,600,10.0
+video16.mp4,negative,negative,True,False,,300,10.0

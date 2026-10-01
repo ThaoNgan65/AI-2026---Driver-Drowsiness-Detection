@@ -1,0 +1,387 @@
+2026-09-14 21:06:08 | INFO | App started
+2026-09-14 21:06:18 | INFO | Detection started
+2026-09-14 21:08:25 | INFO | Detection stopped by user
+2026-09-14 21:08:28 | INFO | App exit
+2026-09-14 21:09:10 | INFO | App started
+2026-09-14 21:09:13 | INFO | Detection started
+2026-09-14 21:10:20 | INFO | App exit
+2026-09-14 21:15:15 | INFO | App started
+2026-09-14 21:15:20 | INFO | Detection started
+2026-09-14 21:16:02 | INFO | App exit
+2026-09-14 21:17:44 | INFO | App started
+2026-09-14 21:17:49 | INFO | Detection started
+2026-09-14 21:18:33 | INFO | Detection stopped by user
+2026-09-14 21:18:33 | INFO | App exit
+2026-09-14 21:21:26 | INFO | App started
+2026-09-14 21:21:35 | INFO | Detection started
+2026-09-14 21:21:53 | INFO | App exit
+2026-09-14 21:23:02 | INFO | App started
+2026-09-14 21:23:06 | INFO | Detection started
+2026-09-14 21:24:14 | INFO | App exit
+2026-09-14 21:25:45 | INFO | App started
+2026-09-14 21:25:51 | INFO | Detection started
+2026-09-14 21:26:26 | INFO | Detection stopped by user
+2026-09-14 21:26:31 | INFO | Detection started
+2026-09-14 21:27:15 | INFO | Detection stopped by user
+2026-09-14 21:27:15 | INFO | App exit
+2026-09-14 21:28:54 | INFO | App started
+2026-09-14 21:28:58 | INFO | Detection started
+2026-09-14 21:30:02 | INFO | App exit
+2026-09-14 21:32:09 | INFO | App started
+2026-09-14 21:32:12 | INFO | Detection started
+2026-09-14 21:32:14 | ERROR | Watchdog: no heartbeat for 2.7s
+2026-09-14 21:32:14 | WARNING | Attempting detection restart 1/2
+2026-09-14 21:32:33 | INFO | Detection restarted OK
+2026-09-14 21:32:33 | ERROR | Watchdog: no heartbeat for 5.5s
+2026-09-14 21:32:33 | WARNING | Attempting detection restart 2/2
+2026-09-14 21:32:40 | INFO | Detection restarted OK
+2026-09-14 21:32:40 | ERROR | Watchdog: no heartbeat for 5.5s
+2026-09-14 21:32:40 | ERROR | Detection stopped permanently after max restarts
+2026-09-14 21:33:02 | INFO | App exit
+2026-09-14 21:36:17 | INFO | App started
+2026-09-14 21:36:20 | ERROR | detection_loop crashed: TEST_ERROR
+Traceback (most recent call last):
+  File "c:\Users\ngan6\OneDrive\FA26\Giám Sát Ngủ Gật\drowsiness_gui_v3.py", line 694, in detection_loop
+    raise RuntimeError("TEST_ERROR")
+RuntimeError: TEST_ERROR
+
+2026-09-14 21:36:20 | INFO | Detection started
+2026-09-14 21:37:19 | INFO | Detection stopped by user
+2026-09-14 21:37:20 | ERROR | detection_loop crashed: TEST_ERROR
+Traceback (most recent call last):
+  File "c:\Users\ngan6\OneDrive\FA26\Giám Sát Ngủ Gật\drowsiness_gui_v3.py", line 694, in detection_loop
+    raise RuntimeError("TEST_ERROR")
+RuntimeError: TEST_ERROR
+
+2026-09-14 21:37:20 | INFO | Detection started
+2026-09-14 21:37:32 | INFO | App exit
+2026-09-14 21:38:25 | INFO | App started
+2026-09-14 21:38:28 | ERROR | detection_loop crashed: TEST_ERROR
+Traceback (most recent call last):
+  File "c:\Users\ngan6\OneDrive\FA26\Giám Sát Ngủ Gật\drowsiness_gui_v3.py", line 694, in detection_loop
+    raise RuntimeError("TEST_ERROR")
+RuntimeError: TEST_ERROR
+
+2026-09-14 21:38:28 | INFO | Detection started
+2026-09-14 21:39:28 | INFO | App exit
+2026-09-14 22:07:16 | INFO | App started
+2026-09-14 22:07:18 | INFO | App exit
+2026-09-14 22:08:56 | INFO | App started
+2026-09-14 22:09:02 | ERROR | detection_loop crashed: TEST_ERROR
+Traceback (most recent call last):
+  File "c:\Users\ngan6\OneDrive\FA26\Giám Sát Ngủ Gật\drowsiness_gui_v3.py", line 694, in detection_loop
+    raise RuntimeError("TEST_ERROR")
+RuntimeError: TEST_ERROR
+
+2026-09-14 22:09:02 | INFO | Detection started
+2026-09-14 22:09:12 | INFO | App exit
+2026-09-14 22:09:38 | INFO | App started
+2026-09-14 22:09:41 | INFO | Detection started
+2026-09-14 22:09:51 | INFO | Detection stopped by user
+2026-09-14 22:10:20 | INFO | App exit
+2026-09-14 22:10:49 | INFO | App started
+2026-09-14 22:10:54 | INFO | Detection started
+2026-09-14 22:11:56 | INFO | Detection stopped by user
+2026-09-14 22:11:57 | INFO | App exit
+2026-09-14 22:12:42 | INFO | App started
+2026-09-14 22:12:47 | INFO | Detection started
+2026-09-14 22:13:05 | INFO | Detection stopped by user
+2026-09-14 22:13:20 | INFO | App exit
+2026-09-14 22:14:56 | INFO | App started
+2026-09-14 22:14:59 | INFO | Detection started
+2026-09-14 22:15:13 | INFO | Detection stopped by user
+2026-09-14 22:15:17 | INFO | App exit
+2026-09-14 22:17:41 | INFO | App started
+2026-09-14 22:17:46 | INFO | Detection started
+2026-09-14 22:17:57 | INFO | Detection stopped by user
+2026-09-14 22:17:59 | INFO | App exit
+2026-09-14 22:18:37 | INFO | App started
+2026-09-14 22:18:40 | INFO | Detection started
+2026-09-14 22:18:42 | ERROR | Watchdog: no heartbeat for 2.5s
+2026-09-14 22:18:42 | WARNING | Attempting detection restart 1/2
+2026-09-14 22:18:44 | INFO | Detection restarted OK
+2026-09-14 22:18:48 | ERROR | Watchdog: no heartbeat for 2.9s
+2026-09-14 22:18:48 | WARNING | Attempting detection restart 2/2
+2026-09-14 22:18:49 | ERROR | Camera open failed (isOpened=False)
+2026-09-14 22:18:49 | ERROR | Restart failed: init/camera
+2026-09-14 22:18:54 | INFO | App exit
+2026-09-14 22:20:42 | INFO | App started
+2026-09-14 22:20:54 | INFO | App exit
+2026-09-14 23:30:09 | INFO | App started
+2026-09-14 23:30:11 | INFO | App exit
+2026-09-15 00:06:51 | INFO | App started
+2026-09-15 00:07:01 | INFO | Detection started
+2026-09-15 00:07:26 | INFO | App exit
+2026-09-15 00:10:04 | INFO | App started
+2026-09-15 00:10:11 | INFO | Detection started
+2026-09-15 00:10:23 | INFO | Detection stopped by user
+2026-09-15 00:10:23 | INFO | App exit
+2026-09-15 00:18:03 | INFO | App started
+2026-09-15 00:18:07 | INFO | Detection started
+2026-09-15 00:19:01 | INFO | Detection stopped by user
+2026-09-15 00:19:05 | INFO | Detection started
+2026-09-15 00:20:21 | INFO | App exit
+2026-09-15 00:25:26 | INFO | App started
+2026-09-15 00:25:31 | INFO | Detection started
+2026-09-15 00:27:20 | INFO | App exit
+2026-09-15 00:42:56 | INFO | App started
+2026-09-15 00:42:59 | INFO | Detection started
+2026-09-15 00:43:56 | INFO | App exit
+2026-09-15 00:46:26 | INFO | App started
+2026-09-15 00:46:31 | INFO | Detection started
+2026-09-15 00:48:38 | INFO | Detection stopped by user
+2026-09-15 00:48:39 | INFO | App exit
+2026-09-15 00:54:15 | INFO | App started
+2026-09-15 00:54:19 | INFO | Detection started
+2026-09-15 00:57:58 | INFO | App exit
+2026-09-15 01:05:15 | INFO | App started
+2026-09-15 01:05:20 | INFO | Detection started
+2026-09-15 01:07:27 | INFO | Detection stopped by user
+2026-09-15 01:07:28 | INFO | App exit
+2026-09-15 01:08:03 | INFO | App started
+2026-09-15 01:08:06 | INFO | Detection started
+2026-09-15 01:09:11 | INFO | Detection stopped by user
+2026-09-15 01:09:11 | INFO | App exit
+2026-09-15 01:20:29 | INFO | App started
+2026-09-15 01:20:32 | INFO | Detection started
+2026-09-15 01:25:10 | INFO | Detection stopped by user
+2026-09-15 01:25:57 | INFO | App exit
+2026-09-16 00:09:57 | INFO | App started
+2026-09-16 00:10:01 | INFO | Detection started
+2026-09-16 00:10:36 | INFO | Detection stopped by user
+2026-09-16 00:10:37 | INFO | App exit
+2026-09-16 00:18:22 | INFO | App started
+2026-09-16 00:18:28 | INFO | Detection started
+2026-09-16 00:18:44 | INFO | Detection stopped by user
+2026-09-16 00:18:44 | INFO | App exit
+2026-09-16 00:20:30 | INFO | App started
+2026-09-16 00:20:34 | INFO | Detection started
+2026-09-16 00:21:42 | INFO | Detection stopped by user
+2026-09-16 00:26:38 | INFO | App started
+2026-09-16 00:26:41 | INFO | Detection started
+2026-09-16 00:28:00 | INFO | App exit
+2026-09-16 00:29:11 | INFO | App started
+2026-09-16 00:29:15 | INFO | Detection started
+2026-09-16 00:29:34 | INFO | App exit
+2026-09-16 00:31:21 | INFO | App started
+2026-09-16 00:31:25 | INFO | Detection started
+2026-09-16 00:32:54 | INFO | App exit
+2026-09-16 00:39:42 | INFO | App started
+2026-09-16 00:39:46 | INFO | Detection started
+2026-09-16 00:40:34 | INFO | App exit
+2026-09-16 00:45:41 | INFO | App started
+2026-09-16 00:45:44 | INFO | Detection started
+2026-09-16 00:46:04 | INFO | App exit
+2026-09-16 00:54:49 | INFO | App started
+2026-09-16 00:54:53 | INFO | Detection started
+2026-09-16 00:55:32 | INFO | App exit
+2026-09-16 00:58:46 | INFO | App started
+2026-09-16 00:58:50 | INFO | Detection started
+2026-09-16 00:59:31 | INFO | App exit
+2026-09-16 01:02:15 | INFO | App started
+2026-09-16 01:02:19 | INFO | Detection started
+2026-09-16 01:02:31 | INFO | Detection stopped by user
+2026-09-16 01:02:31 | INFO | App exit
+2026-09-16 01:04:07 | INFO | App started
+2026-09-16 01:04:15 | INFO | Detection started
+2026-09-16 01:04:46 | INFO | App exit
+2026-09-16 01:05:15 | INFO | App started
+2026-09-16 01:05:24 | INFO | Detection started
+2026-09-16 01:05:51 | INFO | App exit
+2026-09-16 01:11:46 | INFO | App started
+2026-09-16 01:11:50 | INFO | Detection started
+2026-09-16 01:12:28 | INFO | App exit
+2026-09-16 01:15:42 | INFO | App started
+2026-09-16 01:15:45 | INFO | Detection started
+2026-09-16 01:16:32 | INFO | Detection stopped by user
+2026-09-16 01:16:34 | INFO | App exit
+2026-09-16 01:20:12 | INFO | App started
+2026-09-16 01:20:18 | INFO | Detection started
+2026-09-16 01:20:53 | INFO | App exit
+2026-09-16 01:21:12 | INFO | App started
+2026-09-16 01:21:17 | INFO | Detection started
+2026-09-16 01:21:38 | INFO | App exit
+2026-09-16 01:23:08 | INFO | App started
+2026-09-16 01:23:11 | INFO | Detection started
+2026-09-16 01:23:49 | INFO | App exit
+2026-09-16 01:24:06 | INFO | App started
+2026-09-16 01:24:09 | INFO | Detection started
+2026-09-16 01:24:50 | INFO | App exit
+2026-09-16 01:29:08 | INFO | App started
+2026-09-16 01:29:11 | INFO | Detection started
+2026-09-16 01:29:35 | INFO | App exit
+2026-09-16 01:29:59 | INFO | App started
+2026-09-16 01:30:03 | INFO | Detection started
+2026-09-16 01:30:38 | INFO | Detection stopped by user
+2026-09-16 01:30:43 | INFO | Detection started
+2026-09-16 01:30:58 | INFO | App exit
+2026-09-16 01:33:45 | INFO | App started
+2026-09-16 01:33:49 | INFO | Detection started
+2026-09-16 01:34:29 | INFO | App exit
+2026-09-16 01:35:35 | INFO | App started
+2026-09-16 01:35:39 | INFO | Detection started
+2026-09-16 01:36:29 | INFO | App exit
+2026-09-16 01:39:10 | INFO | App started
+2026-09-16 01:39:14 | INFO | Detection started
+2026-09-16 01:40:09 | INFO | App exit
+2026-09-16 01:40:22 | INFO | App started
+2026-09-16 01:40:26 | INFO | Detection started
+2026-09-16 01:50:48 | INFO | App exit
+2026-09-16 01:50:53 | INFO | App started
+2026-09-16 01:51:00 | INFO | Detection started
+2026-09-16 01:52:05 | INFO | App exit
+2026-09-16 01:53:55 | INFO | App started
+2026-09-16 01:53:59 | INFO | Detection started
+2026-09-16 01:54:34 | INFO | App exit
+2026-09-16 01:55:03 | INFO | App started
+2026-09-16 01:55:08 | INFO | Detection started
+2026-09-16 01:55:34 | INFO | App exit
+2026-09-16 02:05:00 | INFO | App started
+2026-09-16 02:05:05 | INFO | Detection started
+2026-09-16 02:07:31 | INFO | App exit
+2026-09-16 02:10:27 | INFO | App started
+2026-09-16 02:10:32 | INFO | Detection started
+2026-09-16 02:12:36 | INFO | App exit
+2026-09-16 02:14:24 | INFO | App started
+2026-09-16 02:14:28 | INFO | Detection started
+2026-09-16 02:14:53 | INFO | App exit
+2026-09-16 02:25:51 | INFO | App started
+2026-09-16 02:25:56 | INFO | Detection started
+2026-09-16 02:26:11 | INFO | App exit
+2026-09-16 02:32:41 | INFO | App started
+2026-09-16 02:32:47 | INFO | Detection started
+2026-09-16 02:33:57 | INFO | Detection stopped by user
+2026-09-16 02:33:59 | INFO | App exit
+2026-09-16 02:35:42 | INFO | App started
+2026-09-16 02:35:45 | INFO | Detection started
+2026-09-16 02:36:03 | INFO | Detection stopped by user
+2026-09-16 02:36:03 | INFO | App exit
+2026-09-16 02:36:16 | INFO | App started
+2026-09-16 02:36:21 | INFO | Detection started
+2026-09-16 02:36:31 | INFO | Detection stopped by user
+2026-09-16 02:36:31 | INFO | App exit
+2026-09-16 02:36:46 | INFO | App started
+2026-09-16 02:36:49 | INFO | App exit
+2026-09-16 02:37:16 | INFO | App started
+2026-09-16 02:37:20 | INFO | Detection started
+2026-09-16 02:37:31 | INFO | App exit
+2026-09-16 02:38:54 | INFO | App started
+2026-09-16 02:38:58 | INFO | Detection started
+2026-09-16 02:39:54 | INFO | App exit
+2026-09-16 02:41:50 | INFO | App started
+2026-09-16 02:41:55 | INFO | Detection started
+2026-09-16 02:42:22 | INFO | Detection stopped by user
+2026-09-16 02:42:23 | INFO | App exit
+2026-09-16 02:45:48 | INFO | App started
+2026-09-16 02:45:52 | INFO | Detection started
+2026-09-16 02:46:08 | INFO | App exit
+2026-09-16 02:48:10 | INFO | App started
+2026-09-16 02:48:14 | INFO | Detection started
+2026-09-16 02:49:33 | INFO | App exit
+2026-09-19 20:06:05 | INFO | App started
+2026-09-19 20:06:26 | INFO | App exit
+2026-09-19 20:06:38 | INFO | App started
+2026-09-19 20:07:04 | INFO | Detection stopped by user
+2026-09-19 20:09:17 | INFO | Detection started
+2026-09-19 20:09:41 | INFO | App exit
+2026-09-19 20:10:28 | INFO | App started
+2026-09-19 20:10:33 | INFO | Detection started
+2026-09-19 20:11:49 | INFO | App exit
+2026-09-19 20:12:06 | INFO | App started
+2026-09-19 20:12:41 | INFO | Detection started
+2026-09-19 20:15:32 | INFO | App exit
+2026-09-19 21:55:43 | INFO | App started
+2026-09-19 21:55:47 | INFO | App exit
+2026-09-19 23:11:18 | INFO | App started
+2026-09-19 23:11:25 | INFO | Detection started
+2026-09-19 23:15:48 | INFO | App exit
+2026-09-19 23:15:53 | INFO | App started
+2026-09-19 23:17:04 | INFO | Detection stopped by user
+2026-09-19 23:27:39 | INFO | Detection started
+2026-09-19 23:30:11 | INFO | Detection stopped by user
+2026-09-19 23:30:15 | INFO | Detection stopped by user
+2026-09-19 23:30:17 | INFO | App exit
+2026-09-19 23:30:25 | INFO | App started
+2026-09-19 23:31:01 | INFO | Detection started
+2026-09-19 23:31:34 | INFO | App exit
+2026-09-19 23:31:41 | INFO | App started
+2026-09-19 23:32:16 | INFO | Detection started
+2026-09-19 23:35:14 | INFO | App exit
+2026-09-19 23:35:19 | INFO | App started
+2026-09-19 23:35:46 | INFO | Detection started
+2026-09-19 23:41:35 | INFO | App exit
+2026-09-19 23:41:41 | INFO | App started
+2026-09-19 23:42:41 | INFO | Detection started
+2026-09-19 23:44:09 | INFO | App exit
+2026-09-19 23:44:13 | INFO | App started
+2026-09-19 23:44:41 | INFO | Detection started
+2026-09-19 23:47:59 | INFO | App exit
+2026-09-19 23:48:03 | INFO | App started
+2026-09-19 23:48:29 | INFO | Detection started
+2026-09-19 23:55:47 | INFO | App exit
+2026-09-20 00:12:52 | INFO | App started
+2026-09-20 00:14:26 | INFO | Detection started
+2026-09-20 00:16:38 | INFO | App exit
+2026-09-20 00:16:45 | INFO | App started
+2026-09-20 00:16:48 | INFO | Detection started
+2026-09-20 00:27:02 | INFO | Detection stopped by user
+2026-09-20 00:27:03 | INFO | App exit
+2026-09-20 00:27:08 | INFO | App started
+2026-09-20 00:27:13 | INFO | Detection started
+2026-09-20 00:36:51 | INFO | App exit
+2026-09-20 00:52:57 | INFO | App started
+2026-09-20 00:53:15 | INFO | Detection started
+2026-09-20 00:55:33 | INFO | App exit
+2026-09-20 00:55:35 | INFO | App started
+2026-09-20 00:55:40 | INFO | Detection started
+2026-09-20 00:58:42 | INFO | App exit
+2026-09-20 00:58:44 | INFO | App started
+2026-09-20 00:58:50 | INFO | App exit
+2026-09-20 00:59:03 | INFO | App started
+2026-09-20 00:59:07 | INFO | App exit
+2026-09-20 00:59:09 | INFO | App started
+2026-09-20 01:03:39 | INFO | Detection started
+2026-09-20 01:04:15 | INFO | App exit
+2026-09-20 01:05:28 | INFO | App started
+2026-09-20 01:05:33 | INFO | Detection started
+2026-09-20 01:42:33 | INFO | App exit
+2026-09-20 01:46:31 | INFO | App started
+2026-09-20 01:46:37 | INFO | Detection started
+2026-09-20 01:46:56 | INFO | Detection stopped by user
+2026-09-20 01:47:01 | INFO | App exit
+2026-09-20 01:47:17 | INFO | App started
+2026-09-20 01:47:43 | INFO | Detection started
+2026-09-20 01:47:52 | INFO | Detection stopped by user
+2026-09-20 01:48:04 | INFO | Detection started
+2026-09-20 01:48:22 | INFO | Detection stopped by user
+2026-09-20 01:48:26 | INFO | App exit
+2026-09-20 01:48:50 | INFO | App started
+2026-09-20 01:48:57 | INFO | Detection started
+2026-09-20 01:49:13 | INFO | Detection stopped by user
+2026-09-20 01:49:16 | INFO | App exit
+2026-09-20 01:49:40 | INFO | App started
+2026-09-20 01:49:45 | INFO | App exit
+2026-09-20 01:49:50 | INFO | App started
+2026-09-20 01:50:03 | INFO | Detection started
+2026-09-20 01:50:12 | INFO | Detection stopped by user
+2026-09-20 01:50:18 | INFO | App exit
+2026-09-20 01:56:45 | INFO | App started
+2026-09-20 01:56:49 | INFO | Detection started
+2026-09-20 02:05:58 | INFO | App exit
+2026-09-20 02:22:18 | INFO | App started
+2026-09-20 02:22:23 | INFO | App exit
+2026-09-20 02:22:25 | INFO | App started
+2026-09-20 02:22:31 | INFO | Detection started
+2026-09-20 02:25:38 | INFO | App exit
+2026-09-24 20:04:21 | INFO | App started
+2026-09-24 20:04:26 | ERROR | Camera open failed (isOpened=False)
+2026-09-24 20:04:26 | ERROR | Start aborted: camera open failed
+2026-09-24 20:04:30 | ERROR | Camera open failed (isOpened=False)
+2026-09-24 20:04:30 | ERROR | Start aborted: camera open failed
+2026-09-24 20:04:32 | INFO | App exit
+2026-09-24 20:05:01 | INFO | App started
+2026-09-24 20:05:05 | INFO | Detection started
+2026-09-24 20:05:26 | INFO | Detection stopped by user
+2026-09-24 20:05:27 | INFO | App exit
+2026-09-30 22:03:05 | INFO | App started
+2026-09-30 22:31:16 | INFO | App exit

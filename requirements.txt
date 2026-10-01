@@ -1,0 +1,20 @@
+# Driver Drowsiness Detection
+# --------------------------------
+# Khuyến nghị: Python 3.10 hoặc 3.11 (Windows)
+# Hỗ trợ tốt: Python 3.10 – 3.12
+# Không khuyến nghị: Python 3.13+ (MediaPipe thường thiếu wheel / lỗi cài đặt)
+
+opencv-python>=4.8.0,<5.0.0
+mediapipe>=0.10.9,<0.11.0
+numpy>=1.24.0,<2.0.0
+Pillow>=10.0.0,<12.0.0
+
+# Ghi chú:
+# - tkinter: có sẵn trong bản Python chuẩn trên Windows
+# - winsound: chỉ có trên Windows (dùng cho beep cảnh báo)
+# - Cần file model: face_landmarker.task (cùng thư mục với script)
+#
+# Cài đặt nhanh (conda):
+#   conda create -n drowsy python=3.10 -y
+#   conda activate drowsy
+#   pip install -r requirements.txt
