@@ -90,7 +90,7 @@ python drowsiness_gui_v3.py
 
 ## Cách hoạt động (tóm tắt kỹ thuật)
 
-1. **MediaPipe Face Landmarker** (Tasks API, chế độ VIDEO) lấy 468 landmark khuôn mặt realtime.  
+1. **MediaPipe Face Landmarker** (Tasks API, chế độ VIDEO) lấy 478 landmark khuôn mặt realtime.  
 2. Tính **EAR / MAR** và ước lượng **pitch / yaw** từ landmark.  
 3. Các kênh độc lập (mắt, ngáp, gật, cúi sâu) kết hợp theo logic **OR**.  
 4. Cảnh báo khi điều kiện đủ thời gian / số lần; beep định kỳ khi đang WARNING.  
